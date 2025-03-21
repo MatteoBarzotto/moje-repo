@@ -1,0 +1,5 @@
+size;repeat;scenario_name;time_s;chunks
+1000;1;Scenario 1 (1 proc);4.780756600001041;[120]
+1000;1;Scenario 2 (2 procs);3.4443085999992036;[60, 60]
+1000;1;Scenario 3 (3 procs);2.30001860000084;[40, 40, 40]
+1000;1;Scenario 4 (4 procs);2.0792504000000918;[30, 30, 30, 30]
